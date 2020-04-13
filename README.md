@@ -2,7 +2,8 @@
 
 A Facebook clone purely based on Flask
 
-<b>Note</b>: I started learning Flask and while learning i made this Project its buggy and needs alot of work and features done but i tried my best
+<b>Note</b>: I started learning Flask and while learning I made this Project its buggy and needs alot of work and features done.
+
 
 <b>Features</b>:
   1. User-Login and Registration 
