@@ -3,6 +3,10 @@
 A Facebook clone purely based on Flask
 
 <b>Note</b>: I started learning Flask and while learning I made this Project its buggy and needs alot of work and features done.
+<b>Deploy to Heroku and check it out easily</b>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 <b>Languages & Database Used</b>:
   1. Python(The God)
